@@ -15,11 +15,8 @@ Note: MapReduce support is deprecated for MongoDB version 5 as MongoDB is moving
 ### References
 
 [Apache Hadoop HDFS and Map-Reduce Implementation](https://hadoop.apache.org/)
-
 [MapReduce Wikipedia](https://en.wikipedia.org/wiki/MapReduce)
-
 [MongoDB MapReduce](https://docs.mongodb.org/manual/core/map-reduce/)
-
 [MongoDB MapReduce Examples](https://docs.mongodb.com/manual/tutorial/map-reduce-examples/)
 
 ## Submission
