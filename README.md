@@ -1,8 +1,8 @@
-# COSC 404 - Database System Implementation<br/>Lab 7 - Map-Reduce using MongoDB
+# COSC 404 - Database System Implementation<br/>Lab 7 - MapReduce using MongoDB
 
 This lab practices programming with Map-Reduce using MongoDB.
 
-## Map-Reduce on MongoDB (10 marks + 5 bonus marks)
+## MapReduce on MongoDB (10 marks + 5 bonus marks)
 
 [MapReduce](https://en.wikipedia.org/wiki/MapReduce) is a technique for processing large data sets involving two phases: a "map" phase that filters and distributes records based on key values and a "reduce" phase that produces a summary over all values that map to a given key.  MapReduce is designed for large, batch data set processing as both the "map" and 'reduce" phases can be parallelized across a cluster of machines.  Support for MapReduce is present in many systems including MongoDB.
 
