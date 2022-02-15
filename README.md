@@ -1,6 +1,6 @@
 # COSC 404 - Database System Implementation<br/>Lab 7 - MapReduce using MongoDB
 
-This lab practices programming with Map-Reduce using MongoDB.
+This lab practices programming with MapReduce using MongoDB.
 
 ## MapReduce on MongoDB (10 marks + 5 bonus marks)
 
@@ -10,9 +10,9 @@ There are a total of 6 Map-Reduce queries to write in the file `QueryMongoMapRed
 
 Note: MapReduce support is deprecated for MongoDB version 5 as MongoDB is moving to a different processing pipeline. However, MapReduce code still runs on MongoDB.
 
-**Each Map-Reduce query is worth 2.5 marks.  Completing any 4 queries receives the full 10 marks for the assignment.  Complete all 6 for 15 marks (includes 5 bonus marks).**
+**Each MapReduce query is worth 2.5 marks.  Completing any 4 queries receives the full 10 marks for the assignment.  Complete all 6 for 15 marks (includes 5 bonus marks).**
 
-### References<
+### References
 
 [Apache Hadoop HDFS and Map-Reduce Implementation](https://hadoop.apache.org/)
 [MapReduce Wikipedia](https://en.wikipedia.org/wiki/MapReduce)
